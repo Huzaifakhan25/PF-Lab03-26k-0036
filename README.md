@@ -1,10 +1,13 @@
-# PF Lab 03
+# Welcome to My GitHub Profile
 
-## About Me
+## My Favorite Programming Languages
+1. C
+2. C++
+3. Python
 
-My name is Huzaifa Khan. I am a BS Artificial Intelligence student at FAST-NUCES.
+## My Hobbies
+* Coding
+* Gaming
+* Reading
 
-## Programming Interests
-
-I am currently learning C/C++ programming and programming fundamentals.
-I am also interested in Artificial Intelligence and technology.
+***This statement is both bold and italic.***
